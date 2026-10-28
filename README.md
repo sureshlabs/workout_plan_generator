@@ -58,7 +58,7 @@ Before running the application, ensure you have:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/sureshtcs/workout_plan_generator.git
+git clone https://github.com/sureshlabs/workout_plan_generator.git
 cd WorkoutPlanGenerator
 ```
 
